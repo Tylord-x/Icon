@@ -1,0 +1,9 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Dependencies
+node_modules/
+node_modules/*
+
+# Token + Mongodb creds
+creds/
+.env
